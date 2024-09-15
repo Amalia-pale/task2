@@ -1,0 +1,21 @@
+.footer{
+        background-color: bisque;
+}
+.head{
+        text-align: center;
+}
+.paragraph{
+        text-align: center;
+}
+.text2{
+        text-align: center;
+}
+.item{
+        float: left;
+        width:33%;
+        text-align: center;
+        
+}
+.clear{
+        clear: left;
+}
